@@ -46,7 +46,7 @@ The proposed **Dual-Track HGNN** integrates **Convolutional Neural Networks (CNN
 ## ⚙️ Implementation Details
 
 - **Framework:** PyTorch  
-- **Epochs:** 10 (CNN and HGNN trained separately)  
+- **Epochs:** 20 (CNN and HGNN trained separately)  
 - **Optimizer:** Adam  
 - **Learning Rate:** 0.001  
 - **Loss Function:** Cross-Entropy  
