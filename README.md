@@ -1,9 +1,6 @@
 # Dual-Track-Hyper-Graph-Neural-Network-for-Histopathological-Image-Classification-
- This project introduces a Dual-Track Hypergraph Neural Network (HGNN) combining CNN and Dynamic Weighted HGNN for multi-class classification of lung and colon cancer histopathological images, capturing both fine-grained morphological features and complex tissue-level relationships accurately. 
+This project introduces a Dual-Track Hypergraph Neural Network (HGNN) combining CNN and Dynamic Weighted HGNN for multi-class classification of lung and colon cancer histopathological images, capturing both fine-grained morphological features and complex tissue-level relationships accurately. Traditional CNN models often fail to capture **non-local dependencies** and **relational tissue structures**, limiting diagnostic accuracy.  
 
-# 🧬 Dual-Track Hypergraph Neural Network for Cancer Image Classification
-
-Traditional CNN models often fail to capture **non-local dependencies** and **relational tissue structures**, limiting diagnostic accuracy.  
 The proposed **Dual-Track HGNN** integrates **Convolutional Neural Networks (CNNs)** with a **Dynamic Weighted Hypergraph Neural Network** to achieve both **fine-grained morphological analysis** and **topological relationship modeling**.
 
 ---
